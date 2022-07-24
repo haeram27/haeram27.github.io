@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "Home"
+    url: https://haeram27.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/haeram27
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.02.15 sidebar update : simple ver.
+categories:
+  # - title: "Example"
+  #   url: /categories/example/
+  - title: "WIP"
+    url: /categories/wip/
